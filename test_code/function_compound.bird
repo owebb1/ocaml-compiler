@@ -1,0 +1,9 @@
+def f x = 
+  if x > 1 then (g x) else x
+end
+
+def g x = 
+  f (x - 1)
+end
+
+f 500

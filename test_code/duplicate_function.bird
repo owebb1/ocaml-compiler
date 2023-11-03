@@ -1,0 +1,9 @@
+def f x =
+  x+2 
+end
+
+def f four =
+    4
+end
+
+f 4

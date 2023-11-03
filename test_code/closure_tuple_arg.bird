@@ -1,0 +1,7 @@
+def f x y = 
+    x[0] + y 
+end
+
+let x = (9, 10) in 
+let g = f x in 
+g 3 

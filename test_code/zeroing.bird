@@ -1,0 +1,6 @@
+def f x y = 
+    let a = 10 in 
+    let b = 20 in 
+    x+a+b+y
+end
+f 10 20 

@@ -1,0 +1,5 @@
+let var3 = 10 in 
+if (var3=print(5)) then
+    ((100 * 190 +  before(5)) > after(16-10)) 
+else
+    true && false || false 

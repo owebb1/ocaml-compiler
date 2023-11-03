@@ -1,0 +1,5 @@
+def subtract a b =
+    a-b
+end
+
+subtract 4 5 

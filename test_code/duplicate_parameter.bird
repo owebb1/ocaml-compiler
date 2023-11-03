@@ -1,0 +1,5 @@
+def hello x y x y z z =
+    x + y
+end
+
+hello 1 2 3

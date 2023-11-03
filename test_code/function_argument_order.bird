@@ -1,0 +1,5 @@
+def foo a b =
+    a - b
+end
+
+foo (print(5)) (print(4))

@@ -1,0 +1,6 @@
+def new a b = 
+    a * after(b)
+end
+
+let new2 = new 10 in 
+new2 10

@@ -1,0 +1,11 @@
+def f x y = 
+    x + y 
+end
+
+def g q r s= 
+    f q
+end 
+
+let a = g (g 1 2 3) in 
+let b = g 6 in
+(90,7,7,7,7,7,7,7,(f 10 40))

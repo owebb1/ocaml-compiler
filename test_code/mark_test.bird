@@ -1,0 +1,5 @@
+def f x = print(4) end
+def g y = 
+    f 2
+end
+g 5

@@ -1,0 +1,13 @@
+def hi l =
+    l
+end 
+
+def hello x y z =
+    hi x y (bye z)  
+end
+
+def bye k =
+    42
+end
+
+hello 0 2

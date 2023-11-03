@@ -1,0 +1,15 @@
+
+
+
+
+let _goodb134ye = print(8) + after(10) * before(6) + 12 - 10 in
+let y =0 - _goodb134ye in 
+let x = -12 + 10 in
+if _goodb134ye > x then
+    let l = after(after(before(x))) in 
+    if l > 10 then
+        false
+    else
+        20
+else
+    1 

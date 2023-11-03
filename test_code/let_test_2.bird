@@ -1,0 +1,1 @@
+let a=before(10) in after(a)

@@ -1,0 +1,7 @@
+if (8*0)=((9-10)+1) then 
+    if isint(5) then 
+        true 
+    else 
+        false
+else 
+    5+6

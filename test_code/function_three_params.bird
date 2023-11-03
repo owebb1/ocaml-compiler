@@ -1,0 +1,5 @@
+def multiply a b c = 
+ a*b*c
+end
+
+multiply 3 4 5

@@ -1,0 +1,5 @@
+def ret_five dummy =  
+    5 
+end
+
+ret_five 5

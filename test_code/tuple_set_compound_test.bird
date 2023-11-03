@@ -1,0 +1,3 @@
+let t = ((1,2,false),4,5,6) in 
+let q = (t[0][2] := (after(2),3)) in 
+t

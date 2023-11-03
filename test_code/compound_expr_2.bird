@@ -1,0 +1,5 @@
+let i=before(10-5) in 
+    let j=(1*2 + 3*4 ) in 
+        let k=i+j in 
+            let m = 100 - k in 
+                m + 10

@@ -1,0 +1,6 @@
+def fun_ret_x x =
+    x
+end
+
+fun_ret_x 20
+

@@ -1,0 +1,4 @@
+let x = 0 in 
+if 5*5 + 10*x < 5*6 then
+    false || 4*x < 10+8*7
+else 10 + 10 

@@ -1,0 +1,10 @@
+def f x y = 
+    x - y 
+end
+
+def g l k = 
+    l k 
+end
+
+let x = f 8 in
+g x 3 

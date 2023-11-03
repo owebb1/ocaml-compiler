@@ -1,0 +1,6 @@
+def hello x y z = 
+    x+y+z
+end
+
+let g = hello 1 in 
+g 2

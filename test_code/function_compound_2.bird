@@ -1,0 +1,5 @@
+def g x = 
+    if x > 1 then (g ((print(x))-1)) else x
+end
+
+g 4

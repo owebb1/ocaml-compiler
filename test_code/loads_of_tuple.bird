@@ -1,0 +1,10 @@
+def f tuple = 
+    if tuple[0] = 0 
+        then tuple 
+    else 
+        let num = tuple[0] - 1 in 
+        f (num,(5,5))
+
+end
+
+f (5,2,2,2,2,2,2)
